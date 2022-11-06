@@ -1,6 +1,5 @@
 # Salewitcher.github.io
-SALE POCETOK<br>
-aj bash<br> 
-nema zaebancii<br>
-ileriiii<br>
-<h1 style="red">stambolka</h1>
+Anence i Salence,<br>
+mnogu si se sakaat,<br>
+minimum 3 dechinja,<br>
+za brzo ke si patkaat!
